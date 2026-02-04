@@ -1,0 +1,7 @@
+{
+    "api_key_gemini": "AIzaSyDAENsLci2M7RDE7Z8UrOR7j2J9sIIBiHo",
+    "api_key_openai": "",
+    "provider": "Google Translate",
+    "model": "Standard (Free)",
+    "tesseract_path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
+}
